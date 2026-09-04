@@ -21,6 +21,35 @@ Custom robotic arm prototype integrating CAD, 3D-printed components, servo motor
 - 6mm birchwood base
 - M3 and M5 screws, nuts, and locknuts
 - Closed-loop GT2 timing belts
-- 
+- screw clamp housing piece
+
+## Custom-designed mechanical components
+- base1 (First base that is screw mounted on the birchwood)
+- base2 (second base that is installed to the rotating base pulley)
+- baes2 lid
+- shoulder base (Supports the shoulder joint)
+- Shoulder Arms
+- Forearms
+- Wrist
+- Gripper (WIP)
+
+## Electronics
+- Arduino UNO R3
+- NEMA 17 Stepper motors
+- CNC shield
+- MG90 metalgear servo
+- limit switches
+- MG996R servo
+- Buck Converter
+
+## Software
+- Arduino IDE
+- Autodesk Fusion
+
+## How does it work?
+Stepper motors are energized and drives a pulley using a pulley reduction to rotate the joint and lift the arm.
+Version one will simply be manual control using potentiometers and buttons for each degree of freedom
+Version two will implement movement using commands via inverse kinematics
+ 
   
   
