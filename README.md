@@ -48,8 +48,19 @@ Custom robotic arm prototype integrating CAD, 3D-printed components, servo motor
 
 ## How does it work?
 Stepper motors are energized and drives a pulley using a pulley reduction to rotate the joint and lift the arm.
-Version one will simply be manual control using potentiometers and buttons for each degree of freedom
+Version one will simply be manual control using potentiometers and buttons for each degree of freedom.
 Version two will implement movement using commands via inverse kinematics
  
-  
+
+## Timeline/Milestones
+1. Designed, fabricated, and installed the base and nema housing
+
+   ![base1](media/pictures/basefirst.jpeg)
+
+2. Shoulder Jont
+   ![shoulderjoint](media/GIF/shoulder.gif)
+
+3. 
+
+   
   
