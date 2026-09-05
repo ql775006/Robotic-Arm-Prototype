@@ -70,7 +70,6 @@ Version two will implement movement using commands via inverse kinematics
  > - Used a slightly longer steel rod so the shoulder base was wider
  >  - Elbow joint uses the same mechanism.
 
-![elbow](media/pictures/Elbow.jpeg)
 
 5. Wrist joint
 
@@ -80,6 +79,7 @@ Version two will implement movement using commands via inverse kinematics
   > - Mounted screw holes are added for the prospective gripper
 
 ![wrist](media/pictures/WristJoint.JPG)
+![wrist](media/pictures/Elbow.jpeg)
 
 
    
