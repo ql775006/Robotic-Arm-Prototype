@@ -57,10 +57,32 @@ Version two will implement movement using commands via inverse kinematics
 
    ![base1](media/pictures/basefirst.jpeg)
 
-2. Shoulder Jont
+2. Shoulder Joint
+   > - Two arms for the shoulder so I'm able to install a NEMA stepper in between for the next joint and act as a base for the next joint
+   > - Clamped the arms onto a horizontally installed steel rod. Pulley is also clamped onto the rod and actually is the driving mechanism that is linked via a belt to the stepper.
+   > - 608 rotating bearings are installed for smooth shaft rotation
+   > - Stepper rotates, pulley rotates, shaft rotates, arm rotates.
+   
    ![shoulderjoint](media/GIF/shoulder.gif)
 
-3. 
+4. Shoulder optimization and elbow joint
+
+ > - Used a slightly longer steel rod so the shoulder base was wider
+ >  - Elbow joint uses the same mechanism.
+
+![elbow](media/pictures/Elbow.jpeg)
+
+5. Wrist joint
+
+  > - Wrist joint uses a servo mounted structure
+  > - Used a metal servo mounting bracket to install the servo and install it between the arms.
+  > - MG996R Servo is used for torque to utilize direct drive
+  > - Mounted screw holes are added for the prospective gripper
+
+![wrist](media/pictures/WristJoint.JPG)
+
+
+   
 
    
   
