@@ -62,6 +62,7 @@ Version two will implement movement using commands via inverse kinematics
    > - Clamped the arms onto a horizontally installed steel rod. Pulley is also clamped onto the rod and actually is the driving mechanism that is linked via a belt to the stepper.
    > - 608 rotating bearings are installed for smooth shaft rotation
    > - Stepper rotates, pulley rotates, shaft rotates, arm rotates.
+   > - Shoulder joint uses a 1:3 pulley reduction ratio
    
    ![shoulderjoint](media/GIF/shoulder.gif)
 
@@ -69,6 +70,7 @@ Version two will implement movement using commands via inverse kinematics
 
  > - Used a slightly longer steel rod so the shoulder base was wider
  >  - Elbow joint uses the same mechanism.
+ >   - Elbow joint uses a 1:2 pulley reduction ratio
 
 
 5. Wrist joint
@@ -80,6 +82,14 @@ Version two will implement movement using commands via inverse kinematics
 
 ![wrist](media/pictures/WristJoint.JPG)
 ![wrist](media/pictures/Elbow.jpeg)
+
+6.Some optimization
+
+ > - Added joints created too much stress at the joints, leading to belt slip under heavier load.
+ > - Increased belt tension why increasing the distance between the pulleys
+>  -  Swapped pulleys and increased the pulley ratio for the elbow and shoulder.
+
+![optimization](media/GIF/beltslip.gif)
 
 
    
