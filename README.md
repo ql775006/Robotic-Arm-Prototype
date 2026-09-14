@@ -91,11 +91,12 @@ Version two will implement movement using commands via inverse kinematics
 
 
 
-![optimization](media/GIF/beltslip.gif)
+![optimization](media/GIF/beltslip.gif). ![snapshot1](media/gif/snapshot.gif)
 
 7. Designed and installed gripper v1
  > - Installed a MG90 metal Gear motor
- > - Reduced the height of the wrist for less weight 
+ > - Reduced the height of the wrist for less weight
+ > - Increased the length of the shoulder and elbow arm to even out proportions (it looked kind of weird)
 
  ![arm_gripper](media/GIF/arm_gripper.gif)
 
