@@ -83,16 +83,21 @@ Version two will implement movement using commands via inverse kinematics
 ![wrist](media/pictures/WristJoint.JPG)
 ![wrist](media/pictures/Elbow.jpeg)
 
-6.Some optimization
+6. Some optimization
 
  > - Added joints created too much stress at the joints, leading to belt slip under heavier load.
  > - Increased belt tension why increasing the distance between the pulleys
 >  -  Swapped pulleys and increased the pulley ratio for the elbow and shoulder.
 
+
+
 ![optimization](media/GIF/beltslip.gif)
 
+7. Designed and installed gripper v1
+ > - Installed a MG90 metal Gear motor
+ > - Reduced the height of the wrist for less weight 
 
-   
+ ![arm_gripper](media/GIF/arm_gripper.gif)
 
    
   
