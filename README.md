@@ -5,7 +5,7 @@ Custom robotic arm prototype integrating CAD, 3D-printed components, servo motor
 
 ## WORK IN PROGRESS
 
-![snapshot1](media/GIF/snapshot.gif)
+![snapshot2](media/GIF/arm_gripper.gif)
 
 ## Project Goals
 - Use stepper motors, belts, and pulleys to rotate joints under moderate load
