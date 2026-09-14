@@ -91,7 +91,7 @@ Version two will implement movement using commands via inverse kinematics
 
 
 
-![optimization](media/GIF/beltslip.gif). ![snapshot1](media/gif/snapshot.gif)
+![optimization](media/GIF/beltslip.gif). ![snapshot1](media/GIF/snapshot.gif)
 
 7. Designed and installed gripper v1
  > - Installed a MG90 metal Gear motor
